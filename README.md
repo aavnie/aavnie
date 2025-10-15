@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻 I'm currently working on  <br>⚡ A CPU+GPU hash-cracking tool to explore performance optimization and parallel computing.  <br>🦆 A Rubber Ducky clone with Pro Micro for fun automation and hardware experimentation.  <br><br>🤝 I'm looking to collaborate on  <br>Open-source projects in C, Python, or Rust that involve systems programming or security tools.  <br><br>🆘 I'm looking for help with  <br>🚀 Optimizing GPU kernels and multi-threaded algorithms for high-performance computing projects.  <br><br>📚 I'm currently learning  <br>🔐 Cybersecurity and penetration testing.  <br>💻 Secure coding practices and exploit prevention.  <br>⚙️ Computer Networking.  <br><br>💬 Ask me about  <br>🧠 Console-based applications in C, like a complete banking system I built.  <br>🔧 Hardware hacking, automation, and hands-on programming projects.  <br><br>🎯 Fun fact  <br>🎮 I combine software and hardware projects, from building apps to cloning Rubber Ducky devices.<br>
 
 
